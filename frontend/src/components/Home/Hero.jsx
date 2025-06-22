@@ -13,7 +13,7 @@ const HeroSection = ({ user }) => {
   };
 
   const handleGitHubClick = () => {
-    window.open("https://github.com/your-username/your-repo", "_blank");
+    window.open("https://github.com/ujjwal0011/refract", "_blank");
   };
 
   return (
