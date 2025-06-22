@@ -1,6 +1,6 @@
 import React from "react";
 import { useAuth } from "../context/AuthContext";
-import HeroSection from "../components/home/Hero";
+import HeroSection from "../components/Home/Hero";
 import FeaturesSection from "../components/Home/Features";
 import HowItWorksSection from "../components/Home/HowItWorks";
 import TestimonialsSection from "../components/Home/Testimonials";
